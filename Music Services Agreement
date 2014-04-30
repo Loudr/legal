@@ -1,36 +1,40 @@
-"<div class=""section-content text-muted"">
-		<h2 class=""content-header text-center"">Loudr Music Services Agreement</h2>
+"
+	<div class=""section-content text-muted"">
+		<h2 class=""heading heading-content text-center"">Loudr Music Services Agreement</h2>
 
 
-<p class=""digestible"">Although you probably aren’t looking for more stuff to read, we think it’s important for you to understand what you sign. Here is a summary of some of the terms you’re agreeing to in this contract.</p>
+<p class=""digestible"">Although you probably aren’t looking for more stuff to read, we think it’s important for you to 
+understand what you sign. Here is a summary of some of the terms you’re agreeing to in this 
+contract.</p>
 
-<h3 class=""content-header"">Acceptance Of The Agreement </h3>
+
+<h3 class=""heading heading-content"">Acceptance Of The Agreement </h3>
 
 <p>Please carefully read the following agreement (“Music Services Agreement” or “Agreement”), which creates a legally binding, enforceable contract between you and re:discover, Inc. regarding your use of our music services, collectively referred to herein as Loudr (“Loudr”), including our content licensing and digital distribution services, regardless whether accessed through the Loudr Website located at <a href=""http://www.loudr.fm/"">www.loudr.fm</a> or a third-party platform. Throughout this Agreement, “Company” “us” “our” and “we” refers to re:discover, Inc. and its affiliates; and “you” or “Content Owner” refers to you, the content owner — anyone who uses our content licensing and digital distribution services. The terms of this Agreement supplement our Terms of Use, Copyright Policy and Privacy Policy, located at <a href=""http://www.loudr.fm/legal"">www.loudr.fm/legal</a>, which you have already accepted by using Loudr. In the event of a conflict between the terms herein and any other agreements between you and Company, the terms of this Agreement shall govern. BY CLICKING BELOW THAT YOU AGREE TO THE AGREEMENT, YOU UNCONDITIONALLY CONSENT TO BE BOUND BY AND BECOME A PARTY TO THESE TERMS, WHETHER YOU ARE ACTING IN YOUR INDIVIDUAL CAPACITY OR AS THE AUTHORIZED REPRESENTATIVE FOR AN ARTIST, A GROUP OR A CORPORATION, IN WHICH CASE “YOU” SHALL REFER TO THE ARTIST, GROUP OR CORPORATION ON WHOSE BEHALF YOU ARE ACTING AND AUTHORIZED TO ACT. IF YOU DO NOT UNCONDITIONALLY AGREE TO ALL OF THESE TERMS, CLICK THE “CANCEL” BUTTON. THE “EFFECTIVE DATE” OF THIS AGREEMENT IS THE DATE ON WHICH YOU CLICK THE “I AGREE” BUTTON BELOW.</p>
 
 <p class=""digestible"">By clicking on the Accept button, you are agreeing to the terms of our Music Services Agreement. These terms supplement our Terms of Use, Copyright Policy and Privacy Policy, which you have already accepted by using Loudr.</p>
 
-<h3 class=""content-header"">Modifications To This Agreement</h3>
+<h3 class=""heading heading-content"">Modifications To This Agreement</h3>
 
 <p>We reserve the right to modify this Agreement from time to time by updating and posting a new version on this Website or by otherwise notifying you of the revised Agreement. By using Loudr, you agree to be bound by the terms and conditions of the version of this Agreement that is in force during your use of the Services, as well as all applicable local, national and international laws and regulations. In the event that we make changes to this Agreement, we will provide you with the opportunity to review and approve the terms prior to use of the Services. Should any modification be unacceptable to you, your sole recourse is to discontinue use of the Services.</p>
 
 <p class=""digestible"">Sometimes we might make minor changes to this Agreement. If we make any changes, you’ll get a chance to review and approve the terms the next time you log into Loudr. </p>
 
-<h3 class=""content-header"">What This Agreement Covers</h3>
+<h3 class=""heading heading-content"">What This Agreement Covers</h3>
 
 <p>We, the Company, provide digital licensing and distribution services to content owners, as well as digital asset management services, including metadata management, catalog encoding, reporting services, and mechanical royalty clearance and administration. You, the Content Owner, are in the business of recording, producing and marketing sound recordings, musical compositions, and other intellectual property owned by you. By agreeing to these terms, you hereby warrant that you are the sole and exclusive owner of the sound recording copyright(s) and, where indicated by you, any musical compositions embodied in the sound recording copyright(s) you submit to your User Account on Loudr.</p>
 
-<p>This Agreement covers digital distribution and other rights in and to the copyrights associated with the content you submit to your User Account on Loudr, including any and all current and future sound recordings and any underlying musical compositions embodied in the content (the “Music”). Additionally, this Agreement covers all other digital assets, including without limitation, album covers and other artwork, image files, marketing materials, trade names, trademarks, and logos, etc., that you have the right to license for commercial or promotional use (“Digital Assets”).&nbsp; Together, the Music and the Digital Assets shall be referred to collectively as the Catalog (“Catalog”). You may from time to time elect to add to the Catalog by logging into your User Account on Loudr and supplying new or editing existing content, the submission of which shall be subject to the terms of this Agreement.</p>
+<p>This Agreement covers digital distribution and other rights in and to the copyrights associated with the content you submit to your User Account on Loudr, including any and all current and future sound recordings and any underlying musical compositions embodied in the content (the “Music”). Additionally, this Agreement covers all other digital assets, including without limitation, album covers and other artwork, image files, marketing materials, trade names, trademarks, and logos, etc., that you have the right to license for commercial or promotional use (“Digital Assets”).  Together, the Music and the Digital Assets shall be referred to collectively as the Catalog (“Catalog”). You may from time to time elect to add to the Catalog by logging into your User Account on Loudr and supplying new or editing existing content, the submission of which shall be subject to the terms of this Agreement.</p>
 
 <p class=""digestible"">You own the music, absolutely and forever. We just distribute it, together with any related assets that you may give us, like album artwork, marketing copy or images.</p>
 
-<h3 class=""content-header"">Your Content On Loudr</h3>
+<h3 class=""heading heading-content"">Your Content On Loudr</h3>
 
 <p>You hereby grant to Company the non-exclusive right and authorization to distribute, license, sell, promote, and otherwise exploit the Catalog and any and all rights in and to the sound recording(s) and underlying composition(s) within the Catalog, throughout the world as part of the Loudr platform, including any products, services, applications or platform/technical integrations offered in connection with Loudr, regardless of whether accessed through the Website or a third-party platform (“Loudr Distribution”).</p>
 
 <p class=""digestible"">You’re giving us the non-exclusive right to sell your recordings (and original songs, if you have original songs) online as part of the Loudr platform. Most commonly, this will involve selling the music on the Loudr Website itself. It can also involve things like selling your music through an embeddable widget or letting our partners sell it through the apps they build using our API. </p>
 
-<h3 class=""content-header"">Your Content On The Rest Of The Internet</h3>
+<h3 class=""heading heading-content"">Your Content On The Rest Of The Internet</h3>
 
 <p>You may authorize Company to distribute your Catalog or any individual album within your Catalog to any or all of the service providers, distributors, social media platforms, licensees, digital entertainment services and any other third-party services available to you through Loudr (“Third-Party Distribution”). </p>
 
@@ -38,13 +42,13 @@
 
 <p class=""digestible"">You can also choose to have us port your music to a variety of other music services and distribution channels, like iTunes or Spotify. These third parties may require rights above and beyond what we require for distribution on Loudr only, so if you choose to have us distribute your music through them, you also agree to give us the rights needed to carry out the distribution, and grant these rights on an exclusive basis, since the third-party services require it. </p>
 
-<h3 class=""content-header"">Additional Rights To Help Us Market and Sell Your Content</h3>
+<h3 class=""heading heading-content"">Additional Rights To Help Us Market and Sell Your Content</h3>
 
 <p>Your grant of rights to Company in this Agreement shall include the right to collect, administer and distribute all revenue derived therefrom, including any advertising revenue or media revenue and revenue deriving from digital, mechanical and performance uses, under statute, industry agreement or otherwise and, if applicable, any non-interactive radio webcasting, satellite radio, and cable subscription royalties from Sound Exchange (and any other authorized organization or successor thereto) and Audio Home Recording Act royalties from the AARC (and any other authorized organization or successor thereto). All licenses shall be executed by Company as agent, and in such regard, Content Owner grants Company and its employees the right and authority to execute license agreements on its behalf during the Term. Company does not guarantee placement of the Content with any Licensee and reserves the right to reject distribution of any Content in its discretion.</p>
 
 <p>Without limiting the generality of the foregoing, it is understood that Company may also directly market, promote, sell or otherwise exploit the Catalog through the Company’s Website and web services, as well as by way of syndication from the Company’s servers to other sellers or to consumers by way of linking, co-branded sites, widgets, data services or platform integrations. You hereby grant Company a non-exclusive, worldwide, gratis, fully paid-up and royalty-free right and license to reproduce, stream, store, publicly perform, transmit and otherwise use the Catalog, including both the Music and Digital Assets, in connection with marketing and promotion of the Catalog.</p>
 
-<p>In addition, Company and Company’s licensees, partners, affiliates, agents and designees shall have the right to use the names, likenesses and biographical material of any artists appearing in the Content in connection with exploitation of the Content and/or the marketing and promotion thereof.&nbsp; Such rights shall not include merchandising rights in anything other than the Music. Content Owner shall retain the exclusive right to commercially release and/or distribute the Content in physical format, e.g., vis-à-vis compact disc.</p>
+<p>In addition, Company and Company’s licensees, partners, affiliates, agents and designees shall have the right to use the names, likenesses and biographical material of any artists appearing in the Content in connection with exploitation of the Content and/or the marketing and promotion thereof.  Such rights shall not include merchandising rights in anything other than the Music. Content Owner shall retain the exclusive right to commercially release and/or distribute the Content in physical format, e.g., vis-à-vis compact disc.</p>
 
 <div class=""digestible"">
 	<p>In order to distribute your music, we need to have the right to dot the I’s and cross the T’s where it is relevant. To this end, you're also giving us the right to complete all paperwork needed to collect revenue on your behalf and get you paid. </p>
@@ -54,19 +58,35 @@
 	<p>But to be clear, we won't be selling anything other than what you ask us distribute through Loudr. </p>
 </div>
 
-<h3 class=""content-header"">Mechanical Licensing For Your Cover Songs</h3>
+<h3 class=""heading heading-content"">Mechanical Licensing For Your Cover Songs</h3>
 
-<p>You may designate individual tracks within your Catalog as “Cover Songs” in the Album Settings section of your Loudr User Account and request that Company procure mechanical and/or digital phonorecord delivery licenses to facilitate the sale and distribution of such designated Cover Songs through Loudr. For any songs designated by you as Cover Songs, you hereby appoint Company as your authorized representative and agent in connection with the procurement, clearance, administration and payment of any such music publishing licenses for the sale and digital distribution of the Cover Songs through Loudr, whether from the Harry Fox Agency or any other applicable entity, provided that such publishing rights have not already been granted. Company shall make commercially reasonable efforts to procure the licenses prior to the sale and distribution of the Cover Songs hereunder and to notify you in writing in the event that such licenses cannot be procured. Company shall have the right to deduct payment for any fees, costs and royalties incurred in connection with such licenses from the fees, royalties and proceeds otherwise payable to you. You shall solely be responsible for the payment of any fees and royalties that exceed the balance associated with your account. </p>
+<p>You may designate individual tracks within your Catalog as “Cover Songs”,0 de?ned here as any 
+phonorecord eligible for licensing under Section 115 of the Copyright Act of 1976, in the Album 
+Settings section of your Loudr User Account and request that Company procure mechanical and/
+or digital phonorecord delivery licenses to facilitate the sale and distribution of such designated 
+Cover Songs through Loudr. For any songs designated by you as Cover Songs, you hereby 
+appoint Company as your authorized representative and agent in connection with the 
+procurement, clearance, administration and payment of any such music publishing licenses for the 
+sale and digital distribution of the Cover Songs through Loudr, whether from the Harry Fox Agency 
+or any other applicable entity, provided that such publishing rights have not already been granted. 
+Company shall make commercially reasonable efforts to procure the licenses prior to the sale and 
+distribution of the Cover Songs hereunder, based on the information provided by you in your User 
+Account, and to notify you in writing in the event that such licenses cannot be procured. Company 
+shall have the right to deduct payment for any fees, costs and royalties incurred in connection with 
+such licenses from the fees, royalties and proceeds otherwise payable to you. You shall solely be 
+responsible for the payment of any fees and royalties that exceed the balance associated with your 
+account. 
+</p>
 
 <p>Company shall make every attempt to secure the rights from the legitimate copyright holders, but shall not be responsible in the event a contracting party is ultimately determined to not hold the rights licensed by such contracting party, and Content Owner shall look solely to such contracting party for any claims in connection therewith. Furthermore, nothing in this Agreement and nothing in Company’s statements to Content Owner shall be construed as a promise or guarantee about the outcome of any clearances or licenses hereunder. </p>
 
 <div class=""digestible"">
-	<p>Cover song licensing is a unique feature of Loudr that allows you to tap into our relationships with music publishers&nbsp;and legally release covers of your favorite songs through Loudr. If you decide to sell covers (and request cover song licensing for one or multiple songs in the Album Settings section of Loudr), you are giving us the permission to obtain the appropriate publishing licenses on your behalf. </p>
+	<p>Cover song licensing is a unique feature of Loudr that allows you to tap into our relationships with music publishers and legally release covers of your favorite songs through Loudr. If you decide to sell covers (and request cover song licensing for one or multiple songs in the Album Settings section of Loudr), you are giving us the permission to obtain the appropriate publishing licenses on your behalf. </p>
 
 	<p>You don’t have to pay anything upfront to have us do this, but we will deduct a royalty (usually $0.091 per song download) on an ongoing basis as the songs are sold. Also, we can’t guarantee that you’ll always get the rights you want, but in the rare instance where a publisher might deny your use of the song, we’ll definitely give you a heads up. The cover song licenses do not extend to sales of music outside the Loudr ecosystem, but they most certainly do extend to sales of music through Loudr third-party platforms like iTunes.</p>
 </div>
 
-<h3 class=""content-header"">The Term Of This Agreement </h3>
+<h3 class=""heading heading-content"">The Term Of This Agreement </h3>
 
 <p>The term (“Term”) of this Agreement shall commence on the Effective Date hereunder and continue:</p>
 
@@ -76,7 +96,7 @@
 
 <p class=""digestible"">If you’re distributing your music on Loudr only, you can quit us at any time by logging into Loudr and requesting cancellation of your account. If you have us distribute your music to third-party platforms, like iTunes or Spotify, the contract lasts for a minimum of one (1) year. If you’d like to leave the contract at the end of that time, let us know at least thirty (30) days before the end of the year.</p>
 
-<h3 class=""content-header"">Processing Your Content</h3>
+<h3 class=""heading heading-content"">Processing Your Content</h3>
 
 <p>Within 45 days of your acceptance of these Terms and your delivery of the digital files of the Content with accurate metadata and cover artwork that fulfill the requirements set forth in the Album Settings section of your Loudr User Account, Company shall deliver the Music and applicable Digital Assets to digital entertainment services. For a current list of the services provided by Company, please log into the Loudr Website and review the Music Services page, which may be revised from time and is located at <a href=""http://loudr.fm/features"">http://loudr.fm/features</a>.</p>
 
@@ -90,48 +110,48 @@
 
 <p class=""digestible"">Within 45 days (but often much sooner) of the time you click the Agree button and deliver the assets we require for distribution, we will deliver your music to the distribution channels that you have designated in Loudr. If you change your mind later and decide to add your music to additional stores, you can modify your selection in Loudr and we’ll do our best to get the music up.</p>
 
-<h3 class=""content-header"">How We Pay You</h3>
+<h3 class=""heading heading-content"">How We Pay You</h3>
 
 <p>We pay you based on the percentages set forth in the Finances section of your Loudr User Account, located at <a href=""http://loudr.fm/features"">http://loudr.fm/features</a>. For any individual track or album that we distribute on your behalf, the standard Loudr Distribution percentage shall be applied to the total revenue generated by all licenses, sales and other exploitation, where shall be defined as the gross sum of fees, payments, royalties and any other consideration generated by exploitation of the Original Songs. For any individual track or album you choose to have us distribute through Third-Party Distribution, one of the following two percentages shall apply: 1) for any track which has not been designated by you as a Cover Song (“Original Songs”), the listed Third-Party Distribution percentage for Original Songs shall be applied to the total revenue generated by all licenses, sales and other exploitation of such Original Songs, and 2) for any track designated by you as a Cover Song, the listed Cover Songs percentage shall apply to all such revenue.  </p>
 
-<p>These amounts (collectively, “Content Owner Share”) shall be calculated after deductions for licensing fees paid out to song publishing licensors, compulsory mechanical licensors, aggregators, digital retail store fees and for other marketplace costs, including without limitation conversion costs and payment processing fees (“Costs”).&nbsp; Company’s payment of any sums hereunder is conditioned upon Content Owner’s fulfillment of all obligations described hereunder and receipt of Content Owner’s completed U.S. Federal Tax form W-9 or W-8BEN, as applicable, in either physical print or digital PDF format. </p>
+<p>These amounts (collectively, “Content Owner Share”) shall be calculated after deductions for licensing fees paid out to song publishing licensors, compulsory mechanical licensors, aggregators, digital retail store fees and for other marketplace costs, including without limitation conversion costs and payment processing fees (“Costs”).  Company’s payment of any sums hereunder is conditioned upon Content Owner’s fulfillment of all obligations described hereunder and receipt of Content Owner’s completed U.S. Federal Tax form W-9 or W-8BEN, as applicable, in either physical print or digital PDF format. </p>
 
 <p>All payments of Content Owner’s Share shall be posted monthly by Company to your Artist Account page and shall be disbursed by Company to you upon your request, provided that your accrued Content Owner’s Share exceeds a threshold of ten US Dollars ($10.00 USD). Any balance due under ten U.S. dollars ($10.00 USD) (aggregated for all Licensees) shall be rolled into the following month and paid only when the balance exceeds ten U.S. dollars ($10.00 USD), or with the last statement, if applicable.</p>
 
 <p>You are responsible for furnishing a valid tax form before any royalties will be paid. Unless other payment arrangements are made between you and Company, Company shall remit payment to you vis-à-vis PayPal or Physical Check to the address provided by you. </p>
 
-<p>Content Owner shall have the right to appoint a certified public accountant who has signed confidentiality agreement with respect to Company’s books, to audit Company’s books and records to verify the accuracy of such statements, once with respect to any statement, once in each year, at Content Owner’s expense, at the place where Company maintains such records, during Company’s normal business hours and on at least thirty (30) days’ prior notice. All objections concerning payments hereunder shall be submitted by Content Owner within one (1) year after the date of payment, after which time all objections shall be waived.&nbsp;</p>
+<p>Content Owner shall have the right to appoint a certified public accountant who has signed confidentiality agreement with respect to Company’s books, to audit Company’s books and records to verify the accuracy of such statements, once with respect to any statement, once in each year, at Content Owner’s expense, at the place where Company maintains such records, during Company’s normal business hours and on at least thirty (30) days’ prior notice. All objections concerning payments hereunder shall be submitted by Content Owner within one (1) year after the date of payment, after which time all objections shall be waived. </p>
 
 <div class=""digestible"">
 	<p>Getting artists paid is something we take seriously. This is why you can view your accounting statements at any time through Loudr and request payouts whenever your total income balance reaches a minimum of $10. </p>
 
-	<p>We pay artists a percentage of the payments we receive, based on whether the song is an original song or a cover song which requires us to pay out royalties. You can log into Loudr at any time to review the percentages and learn more about&nbsp;how we calculate royalties. For a quick overview, click here [http://loudr.fm/features].</p>
+	<p>We pay artists a percentage of the payments we receive, based on whether the song is an original song or a cover song which requires us to pay out royalties. You can log into Loudr at any time to review the percentages and learn more about how we calculate royalties. For a quick overview, <a href=""http://loudr.fm/features"">click here</a>.</p>
 
 	<p>We want to pay you, so please do fill out a tax form so that the IRS will allow us to send you money. </p>
 </div>
 
-<h3 class=""content-header"">Your Obligations To Third Parties </h3>
+<h3 class=""heading heading-content"">Your Obligations To Third Parties </h3>
 
 <p>In connection with exploitation of the Catalog contemplated hereunder, you shall be solely responsible for (a) all record royalties due to artists, producers and other persons who performed in the making of the Music and other royalty participants, (b) all royalties due to any party as a result of samples included in the Music (c) all payments that may be required under collective bargaining agreements applicable to you and your affiliates, and (d) all music publishing licenses and royalties, excluding the procurement of mechanical licenses for “Cover Songs” as provided under Section 2 of this Agreement.</p>
 
 <p>By signing this agreement, you’re agreeing to be responsible for any royalties or payments that might need to be paid to others in order for you to distribute your music through Loudr. That includes any fees that need to be paid to unions, royalty organizations or the owners of any samples included in your music. We suggest checking out the royalty sharing feature in Loudr that allows you to split and directly pay out income to your collaborators.</p>
 
-<h3 class=""content-header"">Confidentiality</h3>
+<h3 class=""heading heading-content"">Confidentiality</h3>
 
-<p>The terms of this Agreement and any agreements entered into between Company and any third party with respect to the Content hereunder shall be held in the strictest confidence by both you and Company.&nbsp; Except pursuant to a valid court order or other legal process requiring the production or disclosure of confidential information, neither party shall disclose the terms of this agreement. Additionally, you may not disclose any information you obtain regarding Company or Company’s business to any third party, except as required by governmental proceeding, applicable law or court order. Upon termination or expiration of this Agreement, each party will promptly return all Confidential Information of the other party and all copies thereof, if any.</p>
+<p>The terms of this Agreement and any agreements entered into between Company and any third party with respect to the Content hereunder shall be held in the strictest confidence by both you and Company.  Except pursuant to a valid court order or other legal process requiring the production or disclosure of confidential information, neither party shall disclose the terms of this agreement. Additionally, you may not disclose any information you obtain regarding Company or Company’s business to any third party, except as required by governmental proceeding, applicable law or court order. Upon termination or expiration of this Agreement, each party will promptly return all Confidential Information of the other party and all copies thereof, if any.</p>
 
 <p>“Confidential Information” means all non-public information of a party and its affiliates, including information relating to Company’s service, business strategy, activities, and operations (whether as then being conducted or proposed to be conducted), reports, ideas, concepts, know-how, techniques, technology, designs, specifications, drawings, diagrams, data, code, marketing plans, strategies and data, usage data, customer lists, suppliers, sources of materials, financial information, pricing information, business relationships, employees, trade secrets, and other technical or business information and any information, data or reports prepared or compiled under this Agreement.</p>
 
 <p class=""digestible"">We don’t have many secrets, but if we do share a secret with you, we expect you to keep that secret a secret, or at least until it’s not a secret anymore. </p>
 
-<h3 class=""content-header"">Warranties; Representations; Indemnity</h3>
+<h3 class=""heading heading-content"">Warranties; Representations; Indemnity</h3>
 
 <p>Each party warrants and represents to the other party that it has the right and authority to enter into and perform this Agreement, and that it will comply with all applicable laws in the performance of this Agreement . </p>
 
 <p>Additionally, you hereby warrant and represent that you own and/or control the Catalog, that the Catalog shall not infringe on the copyrights, trademarks, patents, moral rights, trade secrets, intellectual property rights, privacy rights, contractual rights or other rights of any person or entity and, without limitation, that Company shall have the right to exploit the Catalog in all manner hereunder free from adverse claim and without any obligation to make any payment of any nature to any person or entity, other than the amounts due to you described under this Agreement.</p>
 
 <p>Notwithstanding breach of warranties hereunder, you hereby agree to defend, indemnify and hold Company harmless from any and all costs, losses, damages or expenses arising out of any breach of the foregoing warranties and representations. You also hereby agree to indemnify, defend and hold Company and those authorized by Company to use and/or exploit the Catalog harmless from and against any and all claims, damages, costs, liabilities and expenses, including reasonable counsel fees and litigation expenses, arising out of the use of the Catalog as contemplated hereunder. If a claim is made, Company reserves the right to withhold payment of royalties hereunder in an amount reasonably related to the claim and potential expenses.
-COMPANY DISCLAIMS ANY WARRANTY NOT EXPRESSLY SET FORTH HEREIN, AND DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.&nbsp;IN ADDITION, COMPANY MAKES NO WARRANTIES OR REPRESENTATIONS AS TO THE FUNCTIONALITY, PERFORMANCE OR RESULTS OF COMPANY’S WEBSITE OR SERVICE.&nbsp;UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER.</p>
+COMPANY DISCLAIMS ANY WARRANTY NOT EXPRESSLY SET FORTH HEREIN, AND DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IN ADDITION, COMPANY MAKES NO WARRANTIES OR REPRESENTATIONS AS TO THE FUNCTIONALITY, PERFORMANCE OR RESULTS OF COMPANY’S WEBSITE OR SERVICE. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER.</p>
 
 <div class=""digestible"">
 	<p><strong>You’re not only confirming, but guaranteeing that you definitely own or have the rights to the music you’re distributing through Loudr (other than the publishing rights to any covers we might clear for you). You’re also guaranteeing that you own anything else you might upload, like logos, bios or pictures. </strong></p>
@@ -139,13 +159,13 @@ COMPANY DISCLAIMS ANY WARRANTY NOT EXPRESSLY SET FORTH HEREIN, AND DISCLAIMS ANY
 	<p><strong>We’re really serious about the whole rights thing. Be honest about your rights or we’ll make you pay for our lawyers. They charge a lot.</strong></p>
 </div>
 
-<h3 class=""content-header"">Communications </h3>
+<h3 class=""heading heading-content"">Communications </h3>
 
 <p>Any notice, demand or other communication which may or is required to be given under this Agreement must be in writing and must be: (a) personally delivered; (b) transmitted by United States postage prepaid mail, registered or certified mail, return receipt requested; (c) transmitted by reputable overnight courier service, such as Federal Express; (d) transmitted by legible facsimile (with answer back confirmation); or (e) transmitted by electronic mail, with confirmation of receipt from both parties.</p>
 
 <p class=""digestible"">If you want to communicate with us about the Music Services Agreement, you can show up in person with a letter, send us snail mail, send a friendly courier, send a fax, or just send an old-fashioned email -- with some kind of read-receipt confirmation though, so we can all be sure it got through.</p>
 
-<h3 class=""content-header"">Other Legal Matters</h3>
+<h3 class=""heading heading-content"">Other Legal Matters</h3>
 
 <p>The provisions of this Agreement are solely for the benefit of the parties hereto and not for the benefit of any third parties, except that Company shall have the right to assign this Agreement and/or any of the rights herein during the Term and this Agreement shall be binding upon and inure to the benefit of the assignee(s) hereto and their respective successors, assigns and legal representatives.</p>
 
@@ -177,7 +197,5 @@ COMPANY DISCLAIMS ANY WARRANTY NOT EXPRESSLY SET FORTH HEREIN, AND DISCLAIMS ANY
 
 	<p>We really look forward to working with you.</p>
 </div>
-
-
 
 	</div>"
